@@ -1,5 +1,7 @@
 # AsyncFastAPI-Boilerplate
 
+- http://localhost:8000/docs
+
 - make up
 
 - make down
