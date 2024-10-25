@@ -1,6 +1,5 @@
 # AsyncFastAPI-Boilerplate
 
-
 - make up
 
 - make down
