@@ -1,4 +1,5 @@
 # AsyncFastAPI-Boilerplate
+### Medium Article https://medium.com/@same7khasawneh/using-the-asyncfastapi-boilerplate-for-your-next-project-4d6e5bcb7682
 
 An async API template built with FastAPI, featuring asynchronous database connections, JWT authentication, and modular architecture for high-performance, scalable applications. This boilerplate provides a strong starting point for real-time apps with modern async features and best practices.
 
